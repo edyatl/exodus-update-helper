@@ -131,3 +131,5 @@ Session.vim
 .env
 
 test
+# testing download page
+download.html
